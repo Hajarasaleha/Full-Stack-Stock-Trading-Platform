@@ -1,0 +1,23 @@
+p {
+    font-size: smaller;
+}
+
+h6 {
+    font-size: medium;
+    margin-top: 30px;
+}
+div {
+    padding:20px
+}
+img {
+    width:90%;
+}
+a {
+    padding: 10px;
+    font-size: 0.9rem;
+    text-decoration: none;
+}
+
+a i {
+    opacity:0.8
+}
